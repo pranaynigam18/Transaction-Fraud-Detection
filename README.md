@@ -80,7 +80,7 @@ Transaction Fraud Detection/
 4. **Create a New Repository on GitHub**
    - Go to [GitHub](https://github.com/) and create a new repository
 5. **Add Remote and Push**
-   - Run: `git remote add origin https://github.com/your-username/your-repo-name.git`
+   - Run: `git remote add origin https://github.com/pranaynigam18/Transaction-Fraud-Detection.git`
    - Run: `git branch -M main`
    - Run: `git push -u origin main`
 
