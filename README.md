@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Transaction-Fraud-Detection
-This project demonstrates how unsupervised machine learning techniques can be applied to detect fraudulent transactions in credit card data. Using the publicly available Credit Card Fraud Detection dataset, we perform a comprehensive data analysis and anomaly detection without relying on labeled data for training.
-=======
 # Transaction Fraud Detection (Unsupervised ML)
 
 ## Overview
@@ -91,4 +87,3 @@ Transaction Fraud Detection/
 ---
 
 For any questions or improvements, feel free to open an issue or pull request.
->>>>>>> cafa8a3 (Initial commit: Transaction Fraud Detection project)
